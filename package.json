@@ -1,0 +1,28 @@
+{
+  "name": "bruget",
+  "version": "1.1.0",
+  "description": "Install multiple Bruno API client versions",
+  "bin": {
+    "bruget": "./bin/bruget.js"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "bruno",
+    "api",
+    "cli",
+    "installer",
+    "version-manager"
+  ],
+  "author": "pragadesh-45 <temporaryg7904@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "extract-zip": "^2.0.1"
+  }
+}

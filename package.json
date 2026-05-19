@@ -1,6 +1,6 @@
 {
   "name": "bruget",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Install multiple Bruno API client versions",
   "bin": {
     "bruget": "./bin/bruget.js"
